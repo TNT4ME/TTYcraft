@@ -1,5 +1,5 @@
 # TTYcraft
-PC Screen Font (.psf) port of Monocraft font
+PC Screen Font (.psf) port of Monocraft
 
 Available in 3 sizes:
 - 6x9 (for low res monitors)
